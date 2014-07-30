@@ -14,7 +14,7 @@
 	<div id="formsContent">
 		<h2>Forms</h2>
 		<p>
-			hi. See the <code>org.springframework.samples.mvc.form</code> package for the @Controller code
+			Master!! See the <code>org.springframework.samples.mvc.form</code> package for the @Controller code
 		</p>
 		<form:form id="form" method="post" modelAttribute="formBean" cssClass="cleanform">
 			<div class="header">
